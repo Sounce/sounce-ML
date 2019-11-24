@@ -7,7 +7,6 @@ Sign Languages are a set of languages that use predefined actions and movements 
 
 #### Real-time hand detection and preprocessing
 ![](files/hand-4monitors.gif)
-неділя, 24. листопада 2019 11:06 
 
 #### Gesture recognition
 ![](files/I.jpg)
